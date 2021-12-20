@@ -1,0 +1,5 @@
+## To add the changes
+git add .
+
+## To commit the changes
+git commit -m "<Message>"
